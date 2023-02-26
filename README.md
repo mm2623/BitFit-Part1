@@ -18,8 +18,8 @@ The following **required** functionality is completed:
  
 The following **optional** features are implemented:
 
-- [/] **Create a UI for tracking averages and trends in metrics**
-	- Created UI for average but doesn't calculate average correctly
+- [ ] **Create a UI for tracking averages and trends in metrics**
+	- `Created UI for average but it doesn't calculate average correctly.`
 - [X] **Improve and customize the user interface through styling and coloring**
 - [X] **Implement orientation responsivity**
 - [ ] **Add a daily photo feature**
@@ -32,7 +32,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/90267420/221390549-efc011b2-b482-491f-bd57-bb0d606f269e.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
 [LICEcap](https://licecap.en.softonic.com/) for Windows
